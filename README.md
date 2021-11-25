@@ -1,3 +1,4 @@
+![Welcome](/assets/images/banner.png "Banner")
 # Hi there! 👋
 
 * :mortar_board: I'm an Electronics and communication Undergrad.
