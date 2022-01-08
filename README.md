@@ -2,11 +2,11 @@
 # Hi there! 👋
 
 * :mortar_board: I'm a Junior data analyst.
-  * I have an intermediate experience for data analytics.
-  * And also in love with the process of R&D in any tech field 
-* :computer: I’m currently working on a satellite power system.
-* 🌱 I’m currently learning python, data analysis, and SQL.
-* :open_file_folder: I'm working my way through data science fields and experimenting alot
+* I'm looking for an oppurtunity as a:
+    *Data Analyst
+    *Researcher
+* :computer: Currently working on a Stackoverflow survey porject results.
+* 🌱 Planning to learn machine learning models.
 
 ## My Portfolio:
 
