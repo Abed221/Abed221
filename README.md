@@ -5,7 +5,7 @@
 * I'm looking for an oppurtunity as a:
     *Data Analyst
     *Researcher
-* :computer: Currently working on a Stackoverflow survey porject results.
+* :computer: Currently working on a Stackoverflow survey results project.
 * 🌱 Planning to learn machine learning models.
 
 ## My Portfolio:
