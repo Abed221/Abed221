@@ -1,7 +1,7 @@
 ![Welcome](/banner.png "Banner")
 # Welcome! 👋
 
-| ![Profile Views](https://komarev.com/ghpvc/?username=dirambora&color=blue) | ![Followers](https://img.shields.io/github/followers/Abed221) | ![Stars](https://img.shields.io/github/stars/Abed221?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)
+| ![Profile Views](https://komarev.com/ghpvc/?username=Abed221&color=blue) | ![Followers](https://img.shields.io/github/followers/Abed221) | ![Stars](https://img.shields.io/github/stars/Abed221?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)
 
 * :mortar_board: I'm a fresh grad software engineer.
 * I'm looking for an oppurtunity as a:
